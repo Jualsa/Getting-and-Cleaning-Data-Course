@@ -13,7 +13,7 @@ First af all, we read all the data needed
 -test/y_test.txt: Test labels.
 -train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
-The levels and labels defined on activity labels are applied to y test and y train data sets
+The levels and labels defined on activity_labels are applied to y_test and y_train data sets
 
 Combine subject, y and X data sets (train and test) in one data set
 
