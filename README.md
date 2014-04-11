@@ -23,3 +23,7 @@ sapply is applied to the splitted data set to calculate means of the columns
 Add the columns Subject and Activity to this new data set, apppling the levels from activity_labels
 
 Write the tidy data set to a txt file
+
+To run the .r file ->  source("run_analysis.r")
+
+At the end, only the tidy data set will appear on the Rstudio global enviroment 
