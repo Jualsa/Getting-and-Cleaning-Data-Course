@@ -4,14 +4,7 @@ Getting-and-Cleaning-Data-Course
 Description of how the sript run_analysis.r works
 (these comments also included in the .r file)
 
-First af all, we read all the data needed
--features.txt: List of all features.
--activity_labels.txt: Links the class labels with their activity name.
--train/X_train.txt: Training set.
--train/y_train.txt: Training labels.
--test/X_test.txt: Test set.
--test/y_test.txt: Test labels.
--train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+First af all, we read all the data needed: features.tx, activity_labels.txt, X_train.txt, X_test.txt, y_train.txt, y_test.txt, subject_train.txt
 
 The levels and labels defined on activity_labels are applied to y_test and y_train data sets
 
