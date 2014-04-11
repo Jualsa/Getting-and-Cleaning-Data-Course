@@ -2,7 +2,7 @@ Getting-and-Cleaning-Data-Course
 ================================
 
 Description of how the sript run_analysis.r works
-(this comments also included in the .r file)
+(these comments also included in the .r file)
 
 First af all, we read all the data needed
 -features.txt: List of all features.
