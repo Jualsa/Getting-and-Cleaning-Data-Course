@@ -4,7 +4,7 @@ Getting-and-Cleaning-Data-Course
 Description of how the sript run_analysis.r works
 (these comments also included in the .r file)
 
-First af all, we read all the data needed: features.tx, activity_labels.txt, X_train.txt, X_test.txt, y_train.txt, y_test.txt, subject_train.txt
+First af all, we read all the data needed: features.txt, activity_labels.txt, X_train.txt, X_test.txt, y_train.txt, y_test.txt, subject_train.txt
 
 The levels and labels defined on activity_labels are applied to y_test and y_train data sets
 
